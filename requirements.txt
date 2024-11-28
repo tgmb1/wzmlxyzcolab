@@ -33,6 +33,7 @@ pymongo
 pyrogram==2.0.106
 python-dotenv
 python-magic
+pytz
 qbittorrent-api
 requests
 speedtest-cli
@@ -42,4 +43,3 @@ tgcrypto
 uvloop
 xattr
 yt-dlp
-pytz
